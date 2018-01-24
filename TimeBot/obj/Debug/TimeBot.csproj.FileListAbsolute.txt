@@ -1,0 +1,41 @@
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Bot Application.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Bot Application.pdb
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Autofac.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Chronic.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Web.Http.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Autofac.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Web.Http.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\obj\Debug\TimeBot.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\obj\Debug\Bot Application.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\obj\Debug\Bot Application.pdb
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\bin\Users.txt
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBot\obj\Debug\TimeBot.csprojResolveAssemblyReference.cache

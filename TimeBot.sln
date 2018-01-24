@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeBot", "TimeBot\TimeBot.csproj", "{CDAA1AF9-74D2-49A1-8C0C-5DE4EC8820E9}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimeBotDB", "TimeBotDB\TimeBotDB.sqlproj", "{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAA1AF9-74D2-49A1-8C0C-5DE4EC8820E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAA1AF9-74D2-49A1-8C0C-5DE4EC8820E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAA1AF9-74D2-49A1-8C0C-5DE4EC8820E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAA1AF9-74D2-49A1-8C0C-5DE4EC8820E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4419B3BC-0A40-45A3-8C4C-150FCE6E9AAE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E655D3C-EC71-4800-8B0E-7D11C1EA0EA1}
+	EndGlobalSection
+EndGlobal

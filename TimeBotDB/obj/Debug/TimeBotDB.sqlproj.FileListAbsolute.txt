@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\bin\Debug\TimeBotDB.dacpac
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\bin\Debug\TimeBotDB.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\bin\Debug\TimeBotDB.pdb
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\Model.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\refactor.xml
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\postdeploy.sql
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\predeploy.sql
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\TimeBotDB.dll
+C:\Users\Daniel\Documents\Daniel\Taurati Software\Projects\TimeBot\TimeBotDB\obj\Debug\TimeBotDB.pdb
